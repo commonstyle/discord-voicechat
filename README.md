@@ -1,2 +1,8 @@
-# discord-voicechat
-This make user create a their own voice channel on discord.
+# 디스코드 | 음성채널 관리 봇
+밤하늘이 좋아#0880  >>  [봇 초대 링크](https://discord.com/api/oauth2/authorize?client_id=726842787198140437&permissions=8&scope=bot)
+
+# 기능 설명
+명령어를 통해서 샘플 음성 채널을 만든 후 그 음성채널을 클릭하면 봇이 클릭한 채널의 이름과 인원 제한 수를 가진 음성채널방을 만들어 준다. 채팅방을 만든 사람만 음성 채널의 이름을 수정할 수 있고, 만들어진 음성 채팅방에 모든 사람이 나가면 그 채팅방은 자동으로 삭제된다.
+
+# TODO List
+- [ ] ">>채널만들기" 명령어로 원하는 이름을 가진 샘플 채널을 만듦
